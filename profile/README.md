@@ -8,7 +8,7 @@
 そのため、リアル環境において行われていた営みをオンライン環境で再現する取り組みが存在しています。
 
 例えば、動画視聴ではAmazon Prime Videoが[ウォッチパーティ](https://www.amazon.co.jp/adlp/watchparty)を提供しており、オンライン上の友人や家族と同じ画面を見ることができます。
-また、[Netflix](https://www.netflix.com/jp/)やhuluといったサービスにおいても、[Teleparty](https://www.teleparty.com/)などの拡張機能を用いることで同様の体験を味わえます。
+また、[Netflix](https://www.netflix.com/jp/)や[Hulu](https://www.hulu.jp/)といったサービスにおいても、[Teleparty](https://www.teleparty.com/)などの拡張機能を用いることで同様の体験を味わえます。
 
 しかしながら、日本において有名なサービスである[dTV](https://video.dmkt-sp.jp/)と[dアニメストア](https://anime.dmkt-sp.jp/animestore/tp_pc)ではオンラインで同時に視聴するための効率的な手段は提供されていません。
 
