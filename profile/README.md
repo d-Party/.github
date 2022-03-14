@@ -31,6 +31,6 @@ dアニメストア公式では以下のような手順が推奨されていま�
 
 [d-party](https://d-party.net/)
 
-## Chrome Extension
+## Chrome Webstore
 
-comming soon...
+[d-party - Chrome ウェブストア](https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc)
