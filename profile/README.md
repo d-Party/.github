@@ -20,17 +20,20 @@ dアニメストア公式では以下のような手順が推奨されていま�
 
 ## Repository
 
-- [d-Party/d-Party-Backend](https://github.com/d-Party/d-Party-Backend)
-   - d-Partyのバックエンド部分
--  [d-Party/d-Party-Chrome-Extensions](https://github.com/d-Party/d-Party-Chrome-Extensions)
+- [d-party/d-party-Backend](https://github.com/d-party/d-party-Backend)
+   - d-partyのバックエンド部分
+-  [d-party/d-party-Chrome-Extensions](https://github.com/d-party/d-party-Chrome-Extensions)
    -  dアニメストア向けのChrome Extension
-- [d-Party/d-Party-Firefox-Add-Ons](https://github.com/d-Party/d-Party-Firefox-Add-Ons)
+- [d-party/d-party-Firefox-Add-Ons](https://github.com/d-Party/d-Party-Firefox-Add-Ons)
    -  dアニメストア向けのFirefox Add-On
 
 ## Website
 
-[d-party](https://d-party.net/)
+- [d-party](https://d-party.net/)
+   - d-partyのホームページ
+   - d-party-Backendをデプロイしたもの
 
 ## Chrome Webstore
 
-[d-party - Chrome ウェブストア](https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc)
+- [d-party - Chrome ウェブストア](https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc)
+   - Chrome ウェブストアの公開先
