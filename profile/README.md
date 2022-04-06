@@ -12,20 +12,18 @@
 
 しかしながら、日本で有名な動画ストリーミングサービスである[dTV](https://video.dmkt-sp.jp/)と[dアニメストア](https://anime.dmkt-sp.jp/animestore/tp_pc)ではオンラインで同時に視聴するための効率的な手段は提供されていません。
 
-dアニメストア公式では以下のような手順が推奨されていますが、実際に行ってみると再生時間が動画切り替えのローディング時間の差でずれてしまったり、誰かが一時退席する際には全員が同時に停止を行う必要があります。公式が推薦する手順では優れたUXを提供しているわけではありません。
+dアニメストア公式サイトでは以下のような同時視聴のための手順が推奨されています。しかしながら、推奨手順を実際に実施すると再生時間が動画切り替えのローディング時間の差でずれてしまったり、一人が一時退席する際には全員が同時に停止を行う必要があります。公式が推薦する手順は優れたUXを提供しているわけではありません。
 
 [同時視聴で楽しみたいアニメ特集 | dアニメストア](https://anime.dmkt-sp.jp/animestore/CP/CP00001106)
 
-そこで、私たちは拡張機能によってユーザーにより良い思い出を提供するための手助けをすることを目指した、非営利のサードパーティ製アプリケーションを開発しました。
+そこで、私たちは拡張機能によってユーザーにより良い思い出を提供するための手助けを目指した、非営利のサードパーティ製アプリケーションを開発しました。
 
 ## Repository
 
 - [d-party/d-party-Backend](https://github.com/d-party/d-party-Backend)
    - d-partyのバックエンド部分
 -  [d-party/d-party-Chrome-Extensions](https://github.com/d-party/d-party-Chrome-Extensions)
-   -  d-partyのChrome Extension
-- [d-party/d-party-Firefox-Add-Ons](https://github.com/d-Party/d-Party-Firefox-Add-Ons)
-   -  d-party向けのFirefox Add-On
+   - d-partyのChrome Extension
 
 ## Website
 
