@@ -1,7 +1,7 @@
 # d-party
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ibmlcfpijglpfbfgaleaeooebgdgcbpc)
 ![d-paty](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fd-party.net)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ibmlcfpijglpfbfgaleaeooebgdgcbpc?label=Chrome%20WebStore%20Download)
 
 ## Overview
 
