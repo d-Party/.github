@@ -1,5 +1,7 @@
 # d-party
 
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ibmlcfpijglpfbfgaleaeooebgdgcbpc)
+
 ## Overview
 
 本プロジェクトは[dアニメストア](https://anime.dmkt-sp.jp/animestore/)・[dTV](https://video.dmkt-sp.jp/)においてオンラインで一緒に視聴できる拡張機能を提供することを目的としています。
