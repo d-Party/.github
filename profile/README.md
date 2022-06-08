@@ -1,7 +1,8 @@
 # d-party
 
 [![Website](https://img.shields.io/website?label=d-party.net&up_message=online&url=https%3A%2F%2Fd-party.net)](https://d-party.net)
-![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ibmlcfpijglpfbfgaleaeooebgdgcbpc?label=Chrome%20WebStore%20Download)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ibmlcfpijglpfbfgaleaeooebgdgcbpc?label=Chrome%20WebStore%20Download)](https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc?hl=ja)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/ibmlcfpijglpfbfgaleaeooebgdgcbpc?label=Chrome%20Web%20Store%20Rating)](https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc?hl=ja)
 
 ## Overview
 
@@ -27,12 +28,16 @@ dアニメストア公式サイトでは以下のような同時視聴のため�
    - d-partyのバックエンド
 -  [d-party/d-party-Chrome-Extensions](https://github.com/d-party/d-party-Chrome-Extensions)
    - d-partyのChrome Extension
+- [d-party/d-party-Upptime](https://github.com/d-party/d-party-Upptime)
+   - d-party.netの死活監視を行うリポジトリ
 
 ## Website
 
 - [d-party](https://d-party.net/)
    - d-partyのホームページ
    - d-party-Backendをデプロイしたもの
+- [Upptime](https://d-party.github.io/d-party-Upptime/)
+   - d-party.netの死活監視結果
 
 ## Chrome Webstore
 
